@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Projeto de Músicas Eletrônicas**
+## **README.md Descontraído para o seu Projeto de Músicas Eletrônicas** - Imersão DEV com Google Gemini
 
 ###  Descubra o Mundo da Música Eletrônica com Este Buscador Simples! 
 
